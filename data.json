@@ -51,12 +51,12 @@
             "ad_int_interval" : 1,
             "score_rating_reward" : 3,
 
-            "orientation": "landscape",
+            "orientation": "portrait",
 
             "game_name": "stack do Tigre da Sorte",
             "game_cover": "",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
-            "game_link": "https://play.famobi.com/stack-smash/A-0D1OG",
+            "game_link": "https://lagged.com/api/play2/3d-ball-fall9/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
